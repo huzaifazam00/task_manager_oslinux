@@ -1,0 +1,2343 @@
+{
+    "timestamp": "2024-11-24 13:50:22",
+    "system_performance": {
+        "CPU Usage (%)": 20.4,
+        "Memory Usage (%)": 48.5,
+        "Total Memory (GB)": 4.68,
+        "Available Memory (GB)": 2.41
+    },
+    "running_tasks": [
+        {
+            "username": "root",
+            "memory_percent": 0.2887632475435976,
+            "pid": 1,
+            "cpu_percent": 0.0,
+            "name": "systemd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 2,
+            "cpu_percent": 0.0,
+            "name": "kthreadd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 3,
+            "cpu_percent": 0.0,
+            "name": "pool_workqueue_release"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 4,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-rcu_g"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 5,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-rcu_p"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 6,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-slub_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-netns"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 12,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-mm_pe"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 13,
+            "cpu_percent": 0.0,
+            "name": "rcu_tasks_kthread"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 14,
+            "cpu_percent": 0.0,
+            "name": "rcu_tasks_rude_kthread"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 15,
+            "cpu_percent": 0.0,
+            "name": "rcu_tasks_trace_kthread"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 16,
+            "cpu_percent": 0.0,
+            "name": "ksoftirqd/0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 17,
+            "cpu_percent": 0.0,
+            "name": "rcu_preempt"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 18,
+            "cpu_percent": 0.0,
+            "name": "migration/0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 19,
+            "cpu_percent": 0.0,
+            "name": "idle_inject/0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 20,
+            "cpu_percent": 0.0,
+            "name": "cpuhp/0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 21,
+            "cpu_percent": 0.0,
+            "name": "cpuhp/1"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 22,
+            "cpu_percent": 0.0,
+            "name": "idle_inject/1"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 23,
+            "cpu_percent": 0.0,
+            "name": "migration/1"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 24,
+            "cpu_percent": 0.0,
+            "name": "ksoftirqd/1"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 27,
+            "cpu_percent": 0.0,
+            "name": "cpuhp/2"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 28,
+            "cpu_percent": 0.0,
+            "name": "idle_inject/2"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 29,
+            "cpu_percent": 0.0,
+            "name": "migration/2"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 30,
+            "cpu_percent": 0.0,
+            "name": "ksoftirqd/2"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 32,
+            "cpu_percent": 0.0,
+            "name": "kworker/2:0H-kblockd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 33,
+            "cpu_percent": 0.0,
+            "name": "kdevtmpfs"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 34,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-inet_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 36,
+            "cpu_percent": 0.0,
+            "name": "kauditd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 38,
+            "cpu_percent": 0.0,
+            "name": "khungtaskd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 39,
+            "cpu_percent": 0.0,
+            "name": "oom_reaper"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 41,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-write"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 42,
+            "cpu_percent": 0.0,
+            "name": "kcompactd0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 43,
+            "cpu_percent": 0.0,
+            "name": "ksmd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 44,
+            "cpu_percent": 0.0,
+            "name": "khugepaged"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 45,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-kinte"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 46,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-kbloc"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 47,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-blkcg"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 48,
+            "cpu_percent": 0.0,
+            "name": "irq/9-acpi"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 50,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-tpm_d"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 51,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-ata_s"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 52,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-md"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 53,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-md_bi"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 54,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-edac-"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 55,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-devfr"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 56,
+            "cpu_percent": 0.0,
+            "name": "watchdogd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 59,
+            "cpu_percent": 0.0,
+            "name": "kswapd0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 60,
+            "cpu_percent": 0.0,
+            "name": "ecryptfs-kthread"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 61,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-kthro"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 62,
+            "cpu_percent": 0.0,
+            "name": "irq/24-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 63,
+            "cpu_percent": 0.0,
+            "name": "irq/25-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 64,
+            "cpu_percent": 0.0,
+            "name": "irq/26-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 65,
+            "cpu_percent": 0.0,
+            "name": "irq/27-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 66,
+            "cpu_percent": 0.0,
+            "name": "irq/28-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 67,
+            "cpu_percent": 0.0,
+            "name": "irq/29-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 68,
+            "cpu_percent": 0.0,
+            "name": "irq/30-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 69,
+            "cpu_percent": 0.0,
+            "name": "irq/31-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 70,
+            "cpu_percent": 0.0,
+            "name": "irq/32-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 71,
+            "cpu_percent": 0.0,
+            "name": "irq/33-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 72,
+            "cpu_percent": 0.0,
+            "name": "irq/34-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 73,
+            "cpu_percent": 0.0,
+            "name": "irq/35-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 74,
+            "cpu_percent": 0.0,
+            "name": "irq/36-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 75,
+            "cpu_percent": 0.0,
+            "name": "irq/37-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 76,
+            "cpu_percent": 0.0,
+            "name": "irq/38-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 77,
+            "cpu_percent": 0.0,
+            "name": "irq/39-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 78,
+            "cpu_percent": 0.0,
+            "name": "irq/40-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 79,
+            "cpu_percent": 0.0,
+            "name": "irq/41-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 80,
+            "cpu_percent": 0.0,
+            "name": "irq/42-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 81,
+            "cpu_percent": 0.0,
+            "name": "irq/43-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 82,
+            "cpu_percent": 0.0,
+            "name": "irq/44-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 83,
+            "cpu_percent": 0.0,
+            "name": "irq/45-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 84,
+            "cpu_percent": 0.0,
+            "name": "irq/46-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 85,
+            "cpu_percent": 0.0,
+            "name": "irq/47-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 86,
+            "cpu_percent": 0.0,
+            "name": "irq/48-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 87,
+            "cpu_percent": 0.0,
+            "name": "irq/49-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 88,
+            "cpu_percent": 0.0,
+            "name": "irq/50-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 89,
+            "cpu_percent": 0.0,
+            "name": "irq/51-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 90,
+            "cpu_percent": 0.0,
+            "name": "irq/52-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 91,
+            "cpu_percent": 0.0,
+            "name": "irq/53-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 92,
+            "cpu_percent": 0.0,
+            "name": "irq/54-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 93,
+            "cpu_percent": 0.0,
+            "name": "irq/55-pciehp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 94,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-acpi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 95,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 96,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 97,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_1"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 98,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 102,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-mld"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 103,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-ipv6_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 112,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-kstrp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 127,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-charg"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 179,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-mpt_p"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 180,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-mpt/0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 181,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_2"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 182,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 183,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_3"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 184,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 185,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_4"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 186,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 187,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_5"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 188,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 189,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_6"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 190,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 191,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_7"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 192,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 194,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_8"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 195,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 196,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_9"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 198,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 206,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_10"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 207,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 208,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_11"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 210,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 211,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_12"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 212,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 214,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_13"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 215,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 216,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_14"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 217,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_15"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 218,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 219,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 220,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_16"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 221,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 222,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_17"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 223,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 224,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_18"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 225,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 226,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_19"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 227,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 228,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_20"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 229,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 230,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_21"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 231,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 232,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_22"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 233,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 234,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_23"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 235,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 236,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_24"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 237,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 238,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_25"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 239,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 240,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_26"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 241,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 242,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_27"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 243,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 244,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_28"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 245,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 246,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_29"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 247,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 248,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_30"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 249,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 250,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_31"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 251,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 252,
+            "cpu_percent": 0.0,
+            "name": "scsi_eh_32"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 253,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-scsi_"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 321,
+            "cpu_percent": 0.0,
+            "name": "jbd2/sda2-8"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 322,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-ext4-"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.3796128584383808,
+            "pid": 371,
+            "cpu_percent": 0.0,
+            "name": "systemd-journald"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.02892521243735247,
+            "pid": 407,
+            "cpu_percent": 0.0,
+            "name": "vmware-vmblock-fuse"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 410,
+            "cpu_percent": 0.0,
+            "name": "irq/16-vmwgfx"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 411,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.2170613124876253,
+            "pid": 433,
+            "cpu_percent": 0.0,
+            "name": "systemd-udevd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 517,
+            "cpu_percent": 0.0,
+            "name": "psimon"
+        },
+        {
+            "username": "systemd-oom",
+            "memory_percent": 0.15383324248372243,
+            "pid": 577,
+            "cpu_percent": 0.0,
+            "name": "systemd-oomd"
+        },
+        {
+            "username": "systemd-resolve",
+            "memory_percent": 0.26855633857327815,
+            "pid": 586,
+            "cpu_percent": 0.0,
+            "name": "systemd-resolved"
+        },
+        {
+            "username": "systemd-timesync",
+            "memory_percent": 0.15904792866961134,
+            "pid": 596,
+            "cpu_percent": 0.0,
+            "name": "systemd-timesyncd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.23726822145794477,
+            "pid": 733,
+            "cpu_percent": 0.0,
+            "name": "VGAuthService"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.1903360457849447,
+            "pid": 743,
+            "cpu_percent": 0.9,
+            "name": "vmtoolsd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 757,
+            "cpu_percent": 0.0,
+            "name": "irq/57-vmw_vmci"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 758,
+            "cpu_percent": 0.0,
+            "name": "irq/58-vmw_vmci"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 759,
+            "cpu_percent": 0.0,
+            "name": "irq/59-vmw_vmci"
+        },
+        {
+            "username": "avahi",
+            "memory_percent": 0.09125700825305569,
+            "pid": 867,
+            "cpu_percent": 0.0,
+            "name": "avahi-daemon"
+        },
+        {
+            "username": "messagebus",
+            "memory_percent": 0.14601121320488908,
+            "pid": 868,
+            "cpu_percent": 0.0,
+            "name": "dbus-daemon"
+        },
+        {
+            "username": "gnome-remote-desktop",
+            "memory_percent": 0.3296659423141637,
+            "pid": 871,
+            "cpu_percent": 0.0,
+            "name": "gnome-remote-desktop-daemon"
+        },
+        {
+            "username": "polkitd",
+            "memory_percent": 0.21991309399553327,
+            "pid": 881,
+            "cpu_percent": 0.0,
+            "name": "polkitd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.14601121320488908,
+            "pid": 889,
+            "cpu_percent": 0.0,
+            "name": "power-profiles-daemon"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.7175082273896503,
+            "pid": 897,
+            "cpu_percent": 0.0,
+            "name": "snapd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.1559517087467398,
+            "pid": 900,
+            "cpu_percent": 0.0,
+            "name": "accounts-daemon"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.05736154804477785,
+            "pid": 901,
+            "cpu_percent": 0.0,
+            "name": "cron"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.13818918392605575,
+            "pid": 903,
+            "cpu_percent": 0.0,
+            "name": "switcheroo-control"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.17729933032022246,
+            "pid": 922,
+            "cpu_percent": 0.0,
+            "name": "systemd-logind"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.29063727539165146,
+            "pid": 927,
+            "cpu_percent": 0.0,
+            "name": "udisksd"
+        },
+        {
+            "username": "avahi",
+            "memory_percent": 0.02623638987275351,
+            "pid": 950,
+            "cpu_percent": 0.0,
+            "name": "avahi-daemon"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.39061258711174013,
+            "pid": 952,
+            "cpu_percent": 0.0,
+            "name": "NetworkManager"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.12515246846133352,
+            "pid": 956,
+            "cpu_percent": 0.0,
+            "name": "wpa_supplicant"
+        },
+        {
+            "username": "syslog",
+            "memory_percent": 0.12775981155427796,
+            "pid": 971,
+            "cpu_percent": 0.0,
+            "name": "rsyslogd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.25690477412668267,
+            "pid": 1036,
+            "cpu_percent": 0.0,
+            "name": "ModemManager"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.4693217567300007,
+            "pid": 1242,
+            "cpu_percent": 0.0,
+            "name": "unattended-upgr"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.18772870269200026,
+            "pid": 1259,
+            "cpu_percent": 0.0,
+            "name": "gdm3"
+        },
+        {
+            "username": "kernoops",
+            "memory_percent": 0.044976668353291734,
+            "pid": 1262,
+            "cpu_percent": 0.0,
+            "name": "kerneloops"
+        },
+        {
+            "username": "kernoops",
+            "memory_percent": 0.04709513461630909,
+            "pid": 1275,
+            "cpu_percent": 0.0,
+            "name": "kerneloops"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 1347,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-crypt"
+        },
+        {
+            "username": "rtkit",
+            "memory_percent": 0.06779092041655566,
+            "pid": 1527,
+            "cpu_percent": 0.0,
+            "name": "rtkit-daemon"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.12515246846133352,
+            "pid": 1546,
+            "cpu_percent": 0.0,
+            "name": "bluetoothd"
+        },
+        {
+            "username": "colord",
+            "memory_percent": 0.29291870059797787,
+            "pid": 1679,
+            "cpu_percent": 0.0,
+            "name": "colord"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.18251401650611138,
+            "pid": 1721,
+            "cpu_percent": 0.0,
+            "name": "upowerd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 2341,
+            "cpu_percent": 0.0,
+            "name": "kworker/0:1H-kblockd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.8039579468150896,
+            "pid": 2471,
+            "cpu_percent": 0.0,
+            "name": "fwupd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 2481,
+            "cpu_percent": 0.0,
+            "name": "kworker/2:2H-kblockd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.22423150599322253,
+            "pid": 3025,
+            "cpu_percent": 0.0,
+            "name": "gdm-session-worker"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.26154910401098996,
+            "pid": 3036,
+            "cpu_percent": 0.0,
+            "name": "systemd"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.0733315244890626,
+            "pid": 3042,
+            "cpu_percent": 0.0,
+            "name": "(sd-pam)"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.3096219922871532,
+            "pid": 3052,
+            "cpu_percent": 0.0,
+            "name": "pipewire"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.11993778227544462,
+            "pid": 3053,
+            "cpu_percent": 0.0,
+            "name": "pipewire"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.378064748476945,
+            "pid": 3065,
+            "cpu_percent": 0.0,
+            "name": "wireplumber"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.31597739107620526,
+            "pid": 3069,
+            "cpu_percent": 0.0,
+            "name": "pipewire-pulse"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.13297449774016687,
+            "pid": 3073,
+            "cpu_percent": 0.0,
+            "name": "dbus-daemon"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.20858744743555585,
+            "pid": 3083,
+            "cpu_percent": 0.0,
+            "name": "gnome-keyring-daemon"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.14861855629783355,
+            "pid": 3090,
+            "cpu_percent": 0.0,
+            "name": "xdg-document-portal"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.12515246846133352,
+            "pid": 3111,
+            "cpu_percent": 0.0,
+            "name": "xdg-permission-store"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.03650280330122227,
+            "pid": 3118,
+            "cpu_percent": 0.0,
+            "name": "fusermount3"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.11993778227544462,
+            "pid": 3140,
+            "cpu_percent": 0.0,
+            "name": "gdm-wayland-session"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.3363472589898338,
+            "pid": 3145,
+            "cpu_percent": 0.0,
+            "name": "gnome-session-binary"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.1407965270190002,
+            "pid": 3212,
+            "cpu_percent": 0.0,
+            "name": "gcr-ssh-agent"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.11211575299661126,
+            "pid": 3214,
+            "cpu_percent": 0.0,
+            "name": "gnome-session-ctl"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.15904792866961134,
+            "pid": 3233,
+            "cpu_percent": 0.0,
+            "name": "gvfsd"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.14340387011194464,
+            "pid": 3242,
+            "cpu_percent": 0.0,
+            "name": "gvfsd-fuse"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.3728500622910561,
+            "pid": 3252,
+            "cpu_percent": 0.0,
+            "name": "gnome-session-binary"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 5.839144856649091,
+            "pid": 3283,
+            "cpu_percent": 0.9,
+            "name": "gnome-shell"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.15383324248372243,
+            "pid": 3286,
+            "cpu_percent": 0.0,
+            "name": "at-spi-bus-launcher"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.10429372371777793,
+            "pid": 3296,
+            "cpu_percent": 0.0,
+            "name": "dbus-daemon"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.151225899390778,
+            "pid": 3337,
+            "cpu_percent": 0.0,
+            "name": "at-spi2-registryd"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.35459866064044493,
+            "pid": 3361,
+            "cpu_percent": 0.0,
+            "name": "gnome-shell-calendar-server"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.8786746223222791,
+            "pid": 3370,
+            "cpu_percent": 0.0,
+            "name": "evolution-source-registry"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.5444458295954625,
+            "pid": 3383,
+            "cpu_percent": 0.0,
+            "name": "gjs"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.715468796214138,
+            "pid": 3384,
+            "cpu_percent": 2.6,
+            "name": "Xwayland"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.247453155414759,
+            "pid": 3402,
+            "cpu_percent": 0.0,
+            "name": "ibus-daemon"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.13297449774016687,
+            "pid": 3403,
+            "cpu_percent": 0.0,
+            "name": "gsd-a11y-settings"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.419293361134129,
+            "pid": 3404,
+            "cpu_percent": 0.0,
+            "name": "gsd-color"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.24769759382972256,
+            "pid": 3407,
+            "cpu_percent": 0.0,
+            "name": "gsd-datetime"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.16165527176255579,
+            "pid": 3408,
+            "cpu_percent": 0.0,
+            "name": "gsd-housekeeping"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.4068270019709884,
+            "pid": 3409,
+            "cpu_percent": 0.0,
+            "name": "gsd-keyboard"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.5153576582148011,
+            "pid": 3413,
+            "cpu_percent": 0.0,
+            "name": "gsd-media-keys"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.49042493988851976,
+            "pid": 3414,
+            "cpu_percent": 0.0,
+            "name": "gsd-power"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.23466087836500035,
+            "pid": 3415,
+            "cpu_percent": 0.0,
+            "name": "gsd-print-notifications"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.1355818408331113,
+            "pid": 3421,
+            "cpu_percent": 0.0,
+            "name": "gsd-rfkill"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.12254512536838905,
+            "pid": 3423,
+            "cpu_percent": 0.0,
+            "name": "gsd-screensaver-proxy"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.23466087836500035,
+            "pid": 3425,
+            "cpu_percent": 0.0,
+            "name": "gsd-sharing"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.16165527176255579,
+            "pid": 3426,
+            "cpu_percent": 0.0,
+            "name": "gsd-smartcard"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.19815807506377803,
+            "pid": 3428,
+            "cpu_percent": 0.0,
+            "name": "gsd-sound"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.41138985238364123,
+            "pid": 3429,
+            "cpu_percent": 0.0,
+            "name": "gsd-wacom"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.151225899390778,
+            "pid": 3455,
+            "cpu_percent": 0.0,
+            "name": "gsd-disk-utility-notify"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.7690847329469577,
+            "pid": 3474,
+            "cpu_percent": 0.9,
+            "name": "vmtoolsd"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.2901459541775748,
+            "pid": 3479,
+            "cpu_percent": 0.0,
+            "name": "evolution-alarm-notify"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.4875731583806118,
+            "pid": 3558,
+            "cpu_percent": 0.0,
+            "name": "goa-daemon"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.23987556455088924,
+            "pid": 3613,
+            "cpu_percent": 0.0,
+            "name": "snapd-desktop-integration"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.18512135959905582,
+            "pid": 3627,
+            "cpu_percent": 0.0,
+            "name": "goa-identity-service"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.30766648496744486,
+            "pid": 3647,
+            "cpu_percent": 0.0,
+            "name": "gsd-printer"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.22162416290027806,
+            "pid": 3648,
+            "cpu_percent": 0.0,
+            "name": "gvfs-udisks2-volume-monitor"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.1407965270190002,
+            "pid": 3692,
+            "cpu_percent": 0.0,
+            "name": "ibus-memconf"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.6013999802819678,
+            "pid": 3693,
+            "cpu_percent": 0.0,
+            "name": "ibus-extension-gtk3"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.1407965270190002,
+            "pid": 3703,
+            "cpu_percent": 0.0,
+            "name": "ibus-portal"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.4953951876594451,
+            "pid": 3706,
+            "cpu_percent": 0.0,
+            "name": "evolution-calendar-factory"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.13297449774016687,
+            "pid": 3725,
+            "cpu_percent": 0.0,
+            "name": "gvfs-mtp-volume-monitor"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.16165527176255579,
+            "pid": 3746,
+            "cpu_percent": 0.0,
+            "name": "gvfs-afc-volume-monitor"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.12775981155427796,
+            "pid": 3759,
+            "cpu_percent": 0.0,
+            "name": "gvfs-goa-volume-monitor"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.62616973966494,
+            "pid": 3770,
+            "cpu_percent": 0.0,
+            "name": "snapd-desktop-integration"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.1407965270190002,
+            "pid": 3774,
+            "cpu_percent": 0.0,
+            "name": "gvfs-gphoto2-volume-monitor"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.604903597563112,
+            "pid": 3775,
+            "cpu_percent": 0.0,
+            "name": "evolution-addressbook-factory"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.14861855629783355,
+            "pid": 3827,
+            "cpu_percent": 0.0,
+            "name": "ibus-engine-simple"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.11993778227544462,
+            "pid": 3847,
+            "cpu_percent": 0.0,
+            "name": "dconf-service"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.13297449774016687,
+            "pid": 3868,
+            "cpu_percent": 0.0,
+            "name": "gvfsd-metadata"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.18251401650611138,
+            "pid": 3869,
+            "cpu_percent": 0.0,
+            "name": "gvfsd-trash"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.29226686482474173,
+            "pid": 3900,
+            "cpu_percent": 0.0,
+            "name": "xdg-desktop-portal"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.5650601359240546,
+            "pid": 3922,
+            "cpu_percent": 0.0,
+            "name": "tracker-miner-fs-3"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 2.7554727724123547,
+            "pid": 3923,
+            "cpu_percent": 0.9,
+            "name": "xdg-desktop-portal-gnome"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.5519419409876779,
+            "pid": 3937,
+            "cpu_percent": 0.0,
+            "name": "gjs"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.521140256318122,
+            "pid": 4012,
+            "cpu_percent": 0.0,
+            "name": "gsd-xsettings"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.5293721273393776,
+            "pid": 4067,
+            "cpu_percent": 0.0,
+            "name": "xdg-desktop-portal-gtk"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.5053356832012958,
+            "pid": 4110,
+            "cpu_percent": 0.0,
+            "name": "ibus-x11"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 2.0760969377570166,
+            "pid": 4130,
+            "cpu_percent": 0.0,
+            "name": "mutter-x11-frames"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.5763043030123776,
+            "pid": 4563,
+            "cpu_percent": 0.0,
+            "name": "update-notifier"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 3.0889682498942808,
+            "pid": 5950,
+            "cpu_percent": 0.9,
+            "name": "nautilus"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.17208464413433358,
+            "pid": 5972,
+            "cpu_percent": 0.0,
+            "name": "gvfsd-recent"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 6494,
+            "cpu_percent": 0.0,
+            "name": "psimon"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 6699,
+            "cpu_percent": 0.0,
+            "name": "kworker/u256:1-ext4-rsv-conversion"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.24248290764383368,
+            "pid": 6882,
+            "cpu_percent": 0.0,
+            "name": "cupsd"
+        },
+        {
+            "username": "cups-browsed",
+            "memory_percent": 0.4093528655922784,
+            "pid": 6904,
+            "cpu_percent": 0.0,
+            "name": "cups-browsed"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 6935,
+            "cpu_percent": 0.0,
+            "name": "kworker/0:0H-kblockd"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.128816600301637,
+            "pid": 7171,
+            "cpu_percent": 0.0,
+            "name": "gnome-terminal-server"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.10950840990366682,
+            "pid": 7178,
+            "cpu_percent": 0.0,
+            "name": "bash"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7199,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:4-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7295,
+            "cpu_percent": 0.0,
+            "name": "kworker/u256:2-ext4-rsv-conversion"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7333,
+            "cpu_percent": 0.0,
+            "name": "kworker/1:2-rcu_par_gp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7346,
+            "cpu_percent": 0.0,
+            "name": "kworker/0:1-rcu_par_gp"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7372,
+            "cpu_percent": 0.0,
+            "name": "kworker/0:0-events"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7383,
+            "cpu_percent": 0.0,
+            "name": "kworker/2:2-cgroup_destroy"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7425,
+            "cpu_percent": 0.0,
+            "name": "kworker/2:4-events"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7493,
+            "cpu_percent": 0.0,
+            "name": "kworker/1:0H-kblockd"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.2615466596268403,
+            "pid": 7812,
+            "cpu_percent": 0.0,
+            "name": "gjs"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7903,
+            "cpu_percent": 0.0,
+            "name": "kworker/1:1-events"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7906,
+            "cpu_percent": 0.0,
+            "name": "kworker/1:2H"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7953,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:1-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7964,
+            "cpu_percent": 0.0,
+            "name": "kworker/u256:0-events_power_efficient"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 7999,
+            "cpu_percent": 0.0,
+            "name": "kworker/u256:3-flush-8:0"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8021,
+            "cpu_percent": 0.0,
+            "name": "kworker/R-tls-s"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8024,
+            "cpu_percent": 0.0,
+            "name": "kworker/1:0-events"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8040,
+            "cpu_percent": 0.0,
+            "name": "kworker/1:3"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8043,
+            "cpu_percent": 0.0,
+            "name": "kworker/0:2-events"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.4261376367531083,
+            "pid": 8272,
+            "cpu_percent": 0.0,
+            "name": "packagekitd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8478,
+            "cpu_percent": 0.0,
+            "name": "kworker/1:1H"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.14861855629783355,
+            "pid": 8480,
+            "cpu_percent": 0.0,
+            "name": "sudo"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.05198390291557993,
+            "pid": 8481,
+            "cpu_percent": 0.0,
+            "name": "sudo"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.5837189349329384,
+            "pid": 8482,
+            "cpu_percent": 9.7,
+            "name": "python3"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8484,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:0-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8486,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:2-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8487,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:3-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8500,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:5-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8501,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:6-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8502,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:7-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8503,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:8-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8504,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:9-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8505,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:10-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8506,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:11-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8507,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:12-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8508,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:13-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8509,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:14-ttm"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8510,
+            "cpu_percent": 0.0,
+            "name": "kworker/u257:15"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 9.971131823192806,
+            "pid": 8511,
+            "cpu_percent": 0.0,
+            "name": "firefox"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 8687,
+            "cpu_percent": 0.0,
+            "name": "kworker/2:0"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.006434433876557,
+            "pid": 8738,
+            "cpu_percent": 0.0,
+            "name": "Socket Process"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.9553443607650272,
+            "pid": 8756,
+            "cpu_percent": 0.0,
+            "name": "WebExtensions"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 2.4520432199709443,
+            "pid": 8782,
+            "cpu_percent": 0.0,
+            "name": "Privileged Cont"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.4171748948711117,
+            "pid": 8816,
+            "cpu_percent": 0.0,
+            "name": "snap"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.1941631365685572,
+            "pid": 9271,
+            "cpu_percent": 0.0,
+            "name": "Utility Process"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 9.936340088796328,
+            "pid": 9278,
+            "cpu_percent": 12.3,
+            "name": "Isolated Web Co"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.9890768620299957,
+            "pid": 9326,
+            "cpu_percent": 0.0,
+            "name": "Isolated Servic"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.5113627197195802,
+            "pid": 9379,
+            "cpu_percent": 0.0,
+            "name": "Web Content"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.5353176843860072,
+            "pid": 9404,
+            "cpu_percent": 0.0,
+            "name": "Web Content"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 9434,
+            "cpu_percent": 0.0,
+            "name": "kworker/u256:4-events_power_efficient"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.5225254073362486,
+            "pid": 9460,
+            "cpu_percent": 0.0,
+            "name": "Web Content"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 1.105513471408446,
+            "pid": 9490,
+            "cpu_percent": 0.0,
+            "name": "RDD Process"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.17729933032022246,
+            "pid": 9579,
+            "cpu_percent": 0.0,
+            "name": "gvfsd-network"
+        },
+        {
+            "username": "huzaifa",
+            "memory_percent": 0.18251401650611138,
+            "pid": 9596,
+            "cpu_percent": 0.0,
+            "name": "gvfsd-dnssd"
+        },
+        {
+            "username": "root",
+            "memory_percent": 0.0,
+            "pid": 9639,
+            "cpu_percent": 0.0,
+            "name": "kworker/2:1-mm_percpu_wq"
+        }
+    ],
+    "current_user": "root"
+}
